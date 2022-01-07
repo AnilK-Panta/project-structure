@@ -1,0 +1,55 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  position: relative;
+  width: 100%;
+  font-family: "IBM Plex Sans", sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+section,
+img,
+figure,
+div,
+aside,
+ul,
+li,
+a {
+  margin: 0px;
+  padding: 0px;
+}
+
+img {
+  max-width: 100%;
+}
+ul {
+  list-style: none;
+}
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+}
+
+.section-title {
+  font-family: "Playfair Display", serif;
+  font-size: 40px;
+  color: #000000;
+  font-weight: 600;
+}
+.main-button {
+  background-color: #00b2ff;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 12px;
+}
+
+.bg-main {
+  background-color: #1c3c6b;
+}
